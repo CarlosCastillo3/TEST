@@ -1,0 +1,116 @@
+
+	
+			
+	body {
+		background-color: rgb(216, 236, 92); 
+		text-align: center; 
+		}
+	
+	p {
+		font-family: arial; 
+		color: black; 
+		font-size: 15px; 
+		text-align: left;
+		}
+		
+	table, th, td {
+		text-align: center; 
+		background-color: rgb(219, 156, 156  ); 
+		font-size: 15px: height: 150px; 
+		width: 1050px;
+		border: 3px solid black ;
+		}
+	
+	div { 
+		background-position: right bottom; 
+		background-attachment: fixed;
+		}
+		
+	th { 
+		height: 10px ;
+		font-size: 45px;
+		}	
+		
+	img { 
+		float: center ; 
+		width: 40% ;
+		height:40%;
+		}	
+		
+		
+		
+	#table1 {
+		text-align: center; 
+		background-color: rgb(127, 561, 218 ); 
+		font-size: 15px: height: 150px; 
+		width: 650px;
+		height: 100px;
+		border: 5px solid white;
+		
+		}
+	
+	#p1 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line: underline ;
+		text-decoration-color: green;
+		}
+		
+	#p2 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line:  overline ;
+		text-decoration-color: blue;  
+		}
+		
+	#p3 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line: line-through ;
+		text-decoration-color: green;  
+		}
+		
+	a	{
+		
+		color:black; 	
+		font-size: 45px;
+		} 
+
+	a:hover { 
+		color: blue;
+		}
+	
+	a:active { 
+		color: red;
+		}
+		
+	.dropbtn {
+		background-color: #4CAF50;
+		color: white;
+		padding: 16px;
+		font-size: 16px;
+		border: none;
+		cursor: pointer;
+		}	
+	
+	.dropdown {
+		position: relative;
+		display: inline-block;
+		}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		padding: 12px 16px;
+		z-index: 1;
+		}
+
+	.dropdown:hover 
+	
+	.dropdown-content {
+		display: block;
+		}
+	

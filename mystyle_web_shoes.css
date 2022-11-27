@@ -1,0 +1,207 @@
+
+	
+			
+	body {
+		background-color: rgb(255, 255, 255); 
+		align: center; 
+		}
+	
+	p {
+		font-family: arial; 
+		color: black; 
+		font-size: 15px; 
+		text-align: left;
+		}
+		
+	table, th, td {
+		text-align: center; 
+		background-color: WHITE; 
+		font-size: 15px: height: 150px; 
+		width: 1050px;
+		border: 3px solid black ;
+		font-weight: bold ;
+		
+		}
+	div {
+		
+		background-color: white;
+		padding-top: 5px;
+		padding-right: 8px;
+		padding-bottom: 5px;
+		padding-left: 8px;
+		}
+	
+	div.gallery {
+		margin: 5px;
+		border: 1px solid #ccc;
+		float: left;
+		width: 180px;
+		}
+
+	div.gallery:hover {
+		border: 1px solid #777;
+		}		
+
+	div.gallery img {
+		width: 100%;
+		height: auto;
+		}
+
+		div.desc {
+		padding: 15px;
+		text-align: center;
+		}
+		
+	th { 
+		height: 10px ;
+		font-size: 45px;
+		}	
+	
+	#H1 {
+		font-family: Arial; 
+		color: rgb(176,117,40); 
+		font-size: 35px; 
+		text-align: CENTER;
+		
+		}
+	#th1 {
+		font-family: Arial; 
+		color: rgb(0,0,0); 
+		font-size: 35px; 
+		text-align: CENTER;
+		background-color: rgb(241,181,147);
+		
+		}
+		
+	img { 
+		float: center ; 
+		width: 150% ;
+		height:130%;
+		}	
+	#img1 { 
+		float: center ; 
+		width: 98% ;
+		height:85%;
+		}
+		
+	#img2 { 
+		float: center ; 
+		width: 90% ;
+		height:90%;
+		}
+	
+	#div1 {
+		
+		background-color: white;
+		padding-top: 5px;
+		padding-right: 8px;
+		padding-bottom: 5px;
+		padding-left: 8px;
+		}
+	
+	#div2 {
+		border: 3px solid black;
+		background-color: rgb(248,221,187);
+		padding-top: 5px;
+		padding-right: 8px;
+		padding-bottom: 5px;
+		padding-left: 8px;
+		}
+		
+	#table1 {
+		text-align: center; 
+		background-color: white;  
+		width: 650px;
+		height: 100px;
+		border: none;
+		
+		}
+	#table2 {
+		text-align: center; 
+		background-color: rgb(248,221,187);  
+		width: 650px;
+		height: 100px;
+		border: none;
+		
+		}
+	#p1 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line: underline ;
+		text-decoration-color: green;
+		}
+		
+	#p2 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line:  overline ;
+		text-decoration-color: blue;  
+		}
+		
+	#p3 {
+		font-weight: bold;
+		text-align: center;
+		text-decoration-line: line-through ;
+		text-decoration-color: green;  
+		}
+		
+	a	{
+		
+		color:black; 	
+		font-size: 15px;
+		text-decoration: none;
+		font-weight: bold;
+		} 
+
+	a:hover { 
+		color: black;
+		text-decoration: none;
+		}
+	
+	a:active { 
+		color: black;
+		text-decoration: none;
+		}
+		
+	.dropbtn {
+		background-color: WHITE;
+		color: black;
+		padding: 16px;
+		font-size: 16px;
+		border: none;
+		cursor: pointer;
+		}	
+	
+	.dropdown {
+		position: relative;
+		display: inline-block;
+		}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+		}
+
+	.dropdown-content a {
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		}
+
+	.dropdown-content a:hover {
+		background-color: #f1f1f1;
+		}
+
+	.dropdown:hover .dropdown-content {
+		display: block;
+		}
+
+	.dropdown:hover .dropbtn {
+		background-color: #ffffff;
+		}
+	
